@@ -1,0 +1,13 @@
+{
+  "name": "performance-automation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "load:bdd": "ts-node src/runner.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}
